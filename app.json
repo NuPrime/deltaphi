@@ -1,0 +1,21 @@
+{
+  "name": "deltaphi",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
